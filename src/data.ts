@@ -37,4 +37,11 @@ export const data: dataUser[] = [
         bio: "iOS & Web Developer",
         image: "https://github.com/giovannamoeller.png",
     },
+    {
+        id: 6,
+        name: "Joseph Oliveira",
+        bio: "Passionately writing lines of code and teaching others about front-end development every day.",
+        image: "https://github.com/josepholiveira.png",
+    },
+    
 ]
